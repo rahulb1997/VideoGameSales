@@ -6,35 +6,35 @@ This repository contains an analysis of sales data for more than 16.5K games pro
 
 ## Files
 
-1. **game_sales_data.csv:** This file contains the raw data related to game sales, including information such as game title, platform, release year, sales figures, and more.
+1. **game_sales_data.csv:**  This file contains the raw data related to game sales, including information such as game title, platform, release year, sales figures, and more.
 
-2. **Game_Sales_Cleaned.csv:** CSV file documenting the cleaning and preprocessing steps applied to the game sales data.
+2. **Game_Sales_Cleaned.csv:**  CSV file documenting the cleaning and preprocessing steps applied to the game sales data.
 
 ## Data Structure
 
 ### game_sales_data.csv
 
-**Rank:**Serial number.
+**Rank:** Serial number.
 
-**Name:**The title of the game.
+**Name:** The title of the game.
 
-**Platform:**The gaming platform on which the game was released (e.g., PlayStation, Xbox, PC).
+**Platform:** The gaming platform on which the game was released (e.g., PlayStation, Xbox, PC).
 
-**Year:**The year the game was released.
+**Year:** The year the game was released.
 
-**Genre:**The genre of the game (e.g., Action, Sports, RPG).
+**Genre:** The genre of the game (e.g., Action, Sports, RPG).
 
-**Publisher:**The publisher or company responsible for releasing the game.
+**Publisher:** The publisher or company responsible for releasing the game.
 
-**NA_Sales:**Sales figures for the game in North America (in millions of units).
+**NA_Sales:** Sales figures for the game in North America (in millions of units).
 
-**EU_Sales:**Sales figures for the game in Europe (in millions of units).
+**EU_Sales:** Sales figures for the game in Europe (in millions of units).
 
-**JP_Sales:**Sales figures for the game in Japan (in millions of units).
+**JP_Sales:** Sales figures for the game in Japan (in millions of units).
 
-**Other_Sales:**Sales figures for the game in other regions (excluding NA, EU, and JP) (in millions of units).
+**Other_Sales:** Sales figures for the game in other regions (excluding NA, EU, and JP) (in millions of units).
 
-**Global_Sales:**Total global sales figures for the game (sum of NA, EU, JP, and Other Sales) (in millions of units).
+**Global_Sales:** Total global sales figures for the game (sum of NA, EU, JP, and Other Sales) (in millions of units).
 
 
 ## Data Cleaning
