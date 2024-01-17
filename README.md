@@ -1,4 +1,4 @@
-# Game Sales Analysis
+# Video Games Sales Analysis
 
 ## Overview
 
