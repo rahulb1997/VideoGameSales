@@ -15,25 +15,15 @@ This repository contains an analysis of sales data for more than 16.5K games pro
 ### game_sales_data.csv
 
 **Rank:** Serial number.
-
 **Name:** The title of the game.
-
 **Platform:** The gaming platform on which the game was released (e.g., PlayStation, Xbox, PC).
-
 **Year:** The year the game was released.
-
 **Genre:** The genre of the game (e.g., Action, Sports, RPG).
-
 **Publisher:** The publisher or company responsible for releasing the game.
-
 **NA_Sales:** Sales figures for the game in North America (in millions of units).
-
 **EU_Sales:** Sales figures for the game in Europe (in millions of units).
-
 **JP_Sales:** Sales figures for the game in Japan (in millions of units).
-
 **Other_Sales:** Sales figures for the game in other regions (excluding NA, EU, and JP) (in millions of units).
-
 **Global_Sales:** Total global sales figures for the game (sum of NA, EU, JP, and Other Sales) (in millions of units).
 
 
